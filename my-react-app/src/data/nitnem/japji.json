@@ -1,0 +1,37 @@
+{
+  "id": "japji",
+  "titleGurmukhi": "ਜਪੁਜੀ ਸਾਹਿਬ",
+  "titleEnglish": "Japji Sahib",
+  "lines": [
+    {
+      "id": 1,
+      "gurmukhi": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ",
+      "transliteration": "ik-ōṅkār sat nām karatā purakh nirabhau niravair",
+      "english": "One Universal Creator God. The Name Is Truth. Creative Being Personified. No Fear. No Hatred."
+    },
+    {
+      "id": 2,
+      "gurmukhi": "ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+      "transliteration": "akāl mūrat ajūnī saibhaṅ gur prasād",
+      "english": "Image Of The Undying, Beyond Birth, Self-Existent. By Guru's Grace."
+    },
+    {
+      "id": 3,
+      "gurmukhi": "॥ ਜਪੁ ॥",
+      "transliteration": "jap",
+      "english": "Chant And Meditate:"
+    },
+    {
+      "id": 4,
+      "gurmukhi": "ਆਦਿ ਸਚੁ ਜੁਗਾਦਿ ਸਚੁ ॥",
+      "transliteration": "ād sach jugād sach",
+      "english": "True In The Primal Beginning. True Throughout The Ages."
+    },
+    {
+      "id": 5,
+      "gurmukhi": "ਹੈ ਭੀ ਸਚੁ ਨਾਨਕ ਹੋਸੀ ਭੀ ਸਚੁ ॥੧॥",
+      "transliteration": "hai bhī sach nānak hōsī bhī sach",
+      "english": "True Here And Now. O Nanak, Forever And Ever True. ||1||"
+    }
+  ]
+}
